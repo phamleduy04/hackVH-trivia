@@ -1,0 +1,30 @@
+{
+  "name": "hackvh-trivia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/phamleduy04/hackVH-trivia.git",
+  "author": "phamleduy04",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.21.1",
+    "capitalize": "^2.0.3",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "he": "^1.2.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "quick.db": "^7.1.3",
+    "quickmongo": "^3.0.2",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  }
+}

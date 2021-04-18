@@ -1,0 +1,7 @@
+node_modules/
+.env
+assets/guildJSON
+graph/data/*.json
+graph/images/*.jpg
+*.sqlite
+test*.js
