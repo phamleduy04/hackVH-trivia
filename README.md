@@ -1,5 +1,5 @@
 # hackVH-trivia
-discord bot for hackVH hackathon
+discord bot for hackathon
 # Setup
 - `yarn`
 - `cd graph && python3 -m pip install -r requirements.txt`
